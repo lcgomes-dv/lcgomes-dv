@@ -1,4 +1,17 @@
-## Hi there 👋
+# Seja bem vindo ao meu perfil! 👋
+## Apresentação 
+Estudante de Informática no Ensino Médio Técnico - IFRN <br>
+Estudante de Programação - DIO <br>
+
+## Formações Técnicas
+
+
+## Certificados DIO
+|Cursos| Certificados|
+|------|-------------|
+|Lógica de Programação| [Certificado]
+
+
 
 <!--
 **lcgomes-dv/lcgomes-dv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
