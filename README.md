@@ -1,5 +1,4 @@
 # Seja bem vindo ao meu perfil! 👋
-## Apresentação 
 Cursando Informática no Ensino Médio Técnico - IFRN (3/4)<br>
 Estudante de Programação - DIO <br>
 
